@@ -12,9 +12,9 @@
 
 <img src = '../main/Data & Images/nglview.png'>
 
-<img src = '../main/Data & Images/gui_1.png' width='50%' height='50%'>
+<img src = '../main/Data & Images/gui_1.png' width='65%' height='65%'>
 
-<img src = '../main/Data & Images/gui_2.png' width='50%' height='50%'>
+<img src = '../main/Data & Images/gui_2.png' width='65%' height='65%'>
 
 ## Reference
 
