@@ -1,4 +1,4 @@
-# 3D-SARS-CoV-19-Protein-Visualization-With-Biopython
+# 3D SARS-CoV-2 Protein Visualization With Biopython
 
 ## Blog
 
