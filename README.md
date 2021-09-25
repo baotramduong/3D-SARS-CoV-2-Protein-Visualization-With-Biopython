@@ -10,11 +10,15 @@
 
 ## Modeling
 
-<img src = '../main/Data & Images/nglview.png'>
+<img src = '../main/Data & Images/1.png'>
 
-<img src = '../main/Data & Images/gui_1.png' width='65%' height='65%'>
+<img src = '../main/Data & Images/2.png'>
 
-<img src = '../main/Data & Images/gui_2.png' width='65%' height='65%'>
+<img src = '../main/Data & Images/3.png'>
+
+<img src = '../main/Data & Images/5.png'>
+
+<img src = '../main/Data & Images/6.png'>
 
 ## Reference
 
